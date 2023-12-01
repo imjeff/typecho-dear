@@ -48,7 +48,7 @@ License URI: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
 
 ## 常见问题
 
-**首页显示的文章数太多/太少怎么办？**
+### 首页显示的文章数太多/太少怎么办？
 
 使用代码编辑器修改主题内 funcitons.php 文件，按提示修改第5行“文章数设置”的数量，上传文件替换即可。
 
