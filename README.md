@@ -4,7 +4,7 @@ Theme URI: https://yayu.net/projects/typecho-dear
 
 Author URI: https://yayu.net/
 
-Description: 极极简主题，无 JS、CSS 文件载入，代码极简优化。样式复刻于 Bear 示例主题。主题支持自定义首页内容、菜单显示分类及页面，支持黑暗模式；内置文章归档模板；已作中文字体优化，内置3种字体方案可选。主题仅9个文件共45kb。
+Description: 极极简主题，无 JS、CSS 文件载入，代码极简优化。样式复刻于 Bear 示例主题。主题支持自定义首页内容、菜单显示分类及页面，支持黑暗模式；内置文章归档模板；已作中文字体优化，内置3种字体方案可选。主题仅8个文件共45kb。
 
 Tags: blog, one-column, full-width-template, minimalism
 
