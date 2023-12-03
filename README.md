@@ -1,26 +1,20 @@
 # Dear
 
-Theme URI: https://yayu.net/projects/typecho-dear
+主题介绍: 极极简主题，无 JS、CSS 文件载入，代码极简优化。样式复刻于 Bear 示例主题。主题支持自定义首页内容、菜单显示分类及页面，支持黑暗模式；内置文章归档模板；已作中文字体优化，内置3种字体方案可选。主题仅9个文件共45kb。
 
-Author URI: https://yayu.net/
+关键词: 博客，单栏，极简，免费
 
-Description: 极极简主题，无 JS、CSS 文件载入，代码极简优化。样式复刻于 Bear 示例主题。主题支持自定义首页内容、菜单显示分类及页面，支持黑暗模式；内置文章归档模板；已作中文字体优化，内置3种字体方案可选。主题仅9个文件共45kb。
+主题发布页: https://yayu.net/projects/typecho-dear
 
-Tags: blog, one-column, full-width-template, minimalism
+作者: Jeff Chen
 
-Contributors: Jeff Chen
+作者网站: https://yayu.net/
 
-Version: 1.0
+最新版本: 1.0
 
-Requires at least: 1.1
+授权方式: CC BY-NC-SA 4.0 DEED
 
-Requires PHP: 5.6
-
-Tested up to: 1.2.1
-
-License: CC BY-NC-SA 4.0 DEED
-
-License URI: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
+授权介绍: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
 
 
 ## 主题介绍
