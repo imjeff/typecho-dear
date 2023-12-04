@@ -46,3 +46,6 @@
 
 使用代码编辑器修改主题内 funcitons.php 文件，按提示修改第5行“文章数设置”的数量，上传文件替换即可。
 
+### 如何让文章页面支持评论？
+
+拷贝 Typecho 默认主题 “default” 中的 comments.php 文件到本主题文件夹下，使用代码编辑器修改主题内 index.php 文件的35行，整行替换为以下代码 ```<?php if ( $this->is('post') ) : ?><p># <?php $this->tags(', ', true, '无标签'); ?></p><p><br /><?php $this->need('comments.php'); ?></p><?php endif; ?>``` 即可。显示出来的样式是可以接受的，可按个人喜好另行补充样式。
