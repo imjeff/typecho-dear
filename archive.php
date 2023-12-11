@@ -27,7 +27,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
 <h1 class="title"><?php $this->title() ?></h1>
 <p>
 <?php $this->widget('Widget_Contents_Post_Recent', 'pageSize=10000')->to($archives);
-$year=0; $mon=0; $i=0; $j=0;
+$year=0; $mon=0; $i=0; $j=0; $output='';
 while($archives->next()):
 $year_tmp = date('Y',$archives->created);
 $mon_tmp = date('m',$archives->created);
