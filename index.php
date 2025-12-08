@@ -5,7 +5,7 @@
  *
  * @package Dear
  * @author Jeff Chen
- * @version 1.1.0
+ * @version 1.1.1
  * @link https://yayu.net/
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
@@ -33,5 +33,6 @@ $this->need('header.php'); ?>
 <?php if ( $this->is('post') ) : ?><p><?php $this->category(','); ?> · <time datetime="<?php $this->date('c'); ?>" itemprop="datePublished"><?php $this->date(); ?></time></p><?php endif; ?>
 <div><?php $this->content(); ?></div>
 <?php if ( $this->is('post') ) : ?><p class="tags">#<?php $this->tags(' #', true, '无标签'); ?></p><?php endif; ?>
+<p><?php $this->need('comments.php'); ?></p>
 <?php endif; } ?>
 <?php $this->need('footer.php'); ?>
